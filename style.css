@@ -1,0 +1,54 @@
+/*RESET*/
+html, body, ul, ol, li, form, fieldset, legend{	margin: 0;	padding: 0;}
+h1, h2, h3, h4, h5, h6, p { margin-top: 0; }
+fieldset,img { border: 0; }
+legend { color: #000; }
+li { list-style: none; }
+sup { vertical-align: text-top; }
+sub { vertical-align: text-bottom; }
+caption, th, td {	text-align: left;	vertical-align: top;	font-weight: normal;}
+/*RESET*/
+	body, html { margin:0;padding:0; color:#000000;background:#000000;}
+	h1 {margin:0; font-size:50px;font-family:Arial, Helvetica, sans-serif;}
+	h2 {margin:0; font-size:30px;font-family:Arial, Helvetica, sans-serif;}
+    h3 {margin:0; font-size:15px;font-family:Arial, Helvetica, sans-serif;}
+	h4 {margin:10px; font-size:15px;font-family:Courier}
+  p {font-size:14px;font-family:Verdana, Geneva, sans-serif; white-space:normal;}
+  blockquote {font-style:italic; font-size:13px;font-family:Verdana, Geneva, sans-serif; white-space:normal;}
+	p.tagline {font-size:16px;font-family:Arial, Helvetica, sans-serif; white-space:normal;}  
+	p.comment{color: red;font-size:12px;font-family:Verdana, Geneva, sans-serif;}
+	p.header{font-size:12px;font-family:Arial, Helvetica, sans-serif;; white-space:normal;font-weight:bold;}
+	ul {font-size:14px;font-family:Verdana, Geneva, sans-serif; margin:0; padding:10px;}
+	li {font-size:14px;font-family:Verdana, Geneva, sans-serif; display:inline;margin:0;padding:0;}
+	a:link {color:blue}
+	a:visited {color:blue}
+	a:hover {color:red}
+	a:active {color:red}
+	div.img  {height:auto; width:auto; float:right; }
+	div.desc {	  white-space:nowrap;	font-family:'lucida grande','trebuchet ms',arial,helvetica,sans-serif;  font-size: 60%;  text-align:right;  font-weight:normal;  width:120px;  margin:2px;	  }
+	#navbox ul {margin: 0;	padding: 0;	list-style-type: none;	}
+	#navbox li {margin: 0 0 0 0; }
+	#navbox a	{	display: block;	color: #FFF;	background-color: #036;	width: 144px;	padding: 3px 13px;	text-decoration: none;	display:inline;	}
+	#navbox a:hover	{	background-color: red;	color: #FFF;}
+
+	#wrap {width:940px; height:auto; margin:0 auto;background:#FFFFFF;}
+	/*Header 940px wide*/
+	#header {width:920px; height:100px;padding:10px;background:#FFFFFF;}
+	#navigation {width:920px;height:20px;margin:0 auto;background:#369;padding:10px; }   
+	
+	#main {float:left; width:920px;height:auto;padding:10px; background:#FFFFFF;}
+	
+	#chart_div {float:left; width:900px;height:auto;padding:10px; background:#FFFFFF;}
+
+	/* width:940px;*/
+	#footer {clear:both;border:1px;border-top: 1px solid black;padding:5px 10px;background:#FFFFFF;}
+	#footer p {margin:0;}
+	#box {width:160px;padding:10px;border:1px solid black;margin:0px;}
+
+	.jargon 		{	margin: 1;		padding: 1;		background: orange;	}
+	.orgJargon 	{	margin: 1;		padding: 1;		background: white;	}
+	.tweet 		{	margin: 1;		padding: 2;		background: white;	font-size:12px;font-family:Verdana, Geneva, sans-serif; white-space:normal;}
+	.user	 	{	margin: 1;		padding: 2;		background: white;	font-size:12px;font-family:Verdana, Geneva, sans-serif; white-space:normal;}
+	.tregular     {	margin: 1;		padding: 2;		background: white;	font-size:12px;font-family:Verdana, Geneva, sans-serif; white-space:normal;}
+	.timp 		{	margin: 1;		padding: 2;		background: orange;	font-size:12px;font-family:Verdana, Geneva, sans-serif; white-space:normal;}
+	
